@@ -1,4 +1,5 @@
 ---
+title: Lectures and Sections
 timeline:
   - '9:00 AM'
   - '9:30 AM'
@@ -18,49 +19,52 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
+  - '8:00 PM'
+  - '8:30 PM'
 schedule:
+  - name: Time
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Tuesday
+    events:
+      - name: Lecture
+        start: 3:30 PM
+        end: 5:00 PM
+        location: Online (via Zoom)
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
       - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Lewis 9
+        info: "101, TA: TBD"
+      - name: Section
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Social Sciences Building 56
+        info: "102, TA: TBD"
+      - name: Section
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Social Sciences Building 110
+        info: "103, TA: TBD"
+      - name: Section
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Social Sciences Building 110
+        info: "104, TA: TBD"
+
   - name: Thursday
-  - name: Friday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 3:30 PM
+        end: 5:00 PM
+        location: Online (via Zoom)
+
+  - name: Friday
+    events:
 ---

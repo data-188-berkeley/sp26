@@ -33,6 +33,9 @@
     {%- if page.office_hours -%}
     <p class="staffer-meta">Office Hours: {{ page.office_hours | markdownify | strip_html }}</p>
     {%- endif -%}
+    {% if page.about-me %}
+    <p class="staffer-meta">About Me: {{ page.about-me | markdownify | strip_html }}</p>
+    {% endif %}
     {{ content }}
   </div>
 </div>

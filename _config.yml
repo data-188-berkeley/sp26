@@ -18,7 +18,7 @@
 title: Data 188
 # TODO:(setup): This should be the extended title of your course. e.g. "Introduction to Data Science"
 tagline: Introduction to Deep Learning
-description: Introduction to Deep Learning
+description: UC Berkeley
 # TODO(template): this should be built from the staff list...
 author: Eric Kim
 # You should use either light or dark as the theme.
@@ -34,9 +34,9 @@ url: 'https://data188sp26.github.io' # the hostname & protocol for your site, e.
 # TODO(setup): Set all of these course variables
 course: Data 188
 course_email: ekim555@berkeley.edu
-gradescope_course_id: 123456 # you can find this in the Gradescope URL after /courses
-bcourses_course_id: 123456 # Same as above, but for bCourses. Leave blank if not in use...
-ed_course_id: 123456 # Again, same as above.
+gradescope_course_id: 1217889 # you can find this in the Gradescope URL after /courses
+bcourses_course_id: 1551684 # Same as above, but for bCourses. Leave blank if not in use...
+ed_course_id: 91872 # Again, same as above.
 sememster: sp26 # set for the current seemester
 # TODO(template): We need to set this up.
 course_logo_path:
@@ -58,8 +58,6 @@ aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
     - 'https://edstem.org'
-  OH Queue:
-    - 'https://oh.c88c.org'
   View Template on GitHub:
     - 'https://github.com/berkeley-eecs/berkeley-class-site'
 
