@@ -2,6 +2,7 @@
 name: Rebecca Dang
 role: Teaching Assistant
 email: rdang@berkeley.edu
+website: https://phrdang.github.io/
 photo: rebecca_dang.jpeg
 pronouns: She/Her
 about-me: |
