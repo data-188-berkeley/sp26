@@ -26,7 +26,7 @@ This course is an introduction to deep learning (also known as "deep neural netw
 - bCourse: [link](https://bcourses.berkeley.edu/courses/1551684)
 - Ed: [link](https://edstem.org/us/courses/91872/discussion)
 - Gradescope: [link](https://www.gradescope.com/courses/1217889)
-- Lecture Zoom link: [link](https://berkeley.zoom.us/j/98594186696)
+- Lecture Zoom link (TuTh 3:30pm - 5:00pm): [link](https://berkeley.zoom.us/j/98594186696)
 
 **Note**: lecture starts during Week 01 (2026-01-20).
 Discussion section and office hours will not start until Week 02 (2026-01-26).
