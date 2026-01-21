@@ -30,6 +30,11 @@ schedule:
         location: Warren 101B, Area A
         info: "Staff: Rebecca Dang"
       - name: Office Hours
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Warren 101B, Area B
+        info: "Staff: Terry Kim"
+      - name: Office Hours
         start: 3:00 PM
         end: 4:00 PM
         location: Online, Zoom
