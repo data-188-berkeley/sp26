@@ -65,6 +65,8 @@ While this is not required for the course, we believe that the material here can
 
 ### Lecture Slides
 Regarding reading:
+The provided reading links are optional and are provided for students interested in additional resources.
+The content in the reading will not always be "fair game" for exams: if something isn't covered in lecture/discussion/assignments, then it won't be in scope for exams.
 The Bishop textbook doesn't always cleanly map to our lectures, but I've done my best to line things up.
 Note that the Bishop textbook sometimes takes a different approach to concepts (eg Bishop is sometimes relatively probability-heavy) that we won't always follow in our course.
 
