@@ -27,11 +27,16 @@ From the [UC Berkeley course catalog](https://classes.berkeley.edu/content/2026-
 
 This course is an introduction to deep learning (also known as "deep neural networks"), and will cover the fundamental techniques that power deep learning algorithms, as well as exploring the intuitions and various "rules of thumb" behind successful deep learning methods. Topics include: neural network architectures, backpropagation, convolutional neural networks, sequence models (such as the transformer model), applications to computer vision and natural language processing, and more.
 
+### Acknowledgements
+
+This course is based off of a previous course, [Data C182 Fall 2024](https://datac182fa24.github.io/), designed by instructors Naveen Ashish and Eric Kim.
+
+This course also adapts material from CMU's ["Deep Learning Systems"](https://dlsyscourse.org/) course (10-414/714, Fall 2025). Thanks to: Professor Zico Kolter, Professor Tianqi Chen, and Professor Tim Dettmers.
+
+## Useful Course Links
 **Important:** In this course, we will use Edstem to post announcements and important information.
+It is the student's responsibility to actively monitor the Ed for any important announcements.
 
-**It is the student's responsibility to actively monitor the Ed for any important announcements.**
-
-**Useful course links:**
 - bCourse: [link](https://bcourses.berkeley.edu/courses/1551684)
 - Ed: [link](https://edstem.org/us/courses/91872/discussion)
 - Gradescope: [link](https://www.gradescope.com/courses/1217889)
@@ -63,7 +68,7 @@ provided via the bCourses ["Media Gallery"](https://bcourses.berkeley.edu/course
 <!-- Here is an **optional weekly reading list** of supplemental material: [link](https://docs.google.com/document/d/1asBPDgxrI47hiQ2rjGBmdAXLWv02kopqDgcE4yyW718/edit).
 While this is not required for the course, we believe that the material here can enhance understanding of the course and, more broadly, gain further exposure to the DNN field. -->
 
-### Lecture Slides
+### Lecture Slides, Readings
 Regarding reading:
 The provided reading links are optional and are provided for students interested in additional resources.
 The content in the reading will not always be "fair game" for exams: if something isn't covered in lecture/discussion/assignments, then it won't be in scope for exams.
@@ -172,7 +177,7 @@ See this [calendar](calendar/) to view the available discussion section times an
 
 ### Section Notes
 
-Discussion 01 (Week 2): TODO
+Discussion 01 (Week 2): "Matrices, vectors, and gradients"
 
 <!-- - Discussion 01 (Week 3): [Section Notes](/assets/section_notes/week03.pdf), [Solution](/assets/section_notes/week03_solution.pdf)
 
