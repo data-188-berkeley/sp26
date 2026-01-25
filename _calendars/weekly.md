@@ -52,6 +52,11 @@ schedule:
         location: Online (via Zoom)
   - name: Wednesday
     events:
+      - name: Office Hours
+        start: 9:30 AM
+        end: 10:30 AM
+        location: Warren 101B, Area A
+        info: "Staff: Zekai Wang"
       - name: Section
         start: 11:00 AM
         end: 12:00 PM
