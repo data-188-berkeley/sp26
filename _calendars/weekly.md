@@ -81,15 +81,15 @@ schedule:
   - name: Thursday
     events:
       - name: Office Hours
+        start: 9:00 AM
+        end: 10:00 AM
+        location: Warren 101B, Area B
+        info: "Staff: Yihang Chen"
+      - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: Warren 101B, Area A
         info: "Staff: Ryan Michael Tom"
-      - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
-        location: Warren 101B, Area A
-        info: "Staff: Yihang Chen"
       - name: Lecture
         start: 3:30 PM
         end: 5:00 PM
