@@ -214,6 +214,8 @@ For assignment due dates, see Gradescope.
 
 * [Homework 0](https://colab.research.google.com/github/data-188-berkeley/hw0/blob/main/hw0.ipynb): ML warmup, softmax classification.
 
+* [Homework 1](https://colab.research.google.com/github/data-188-berkeley/hw1/blob/main/hw1.ipynb): Backpropagation.
+
 <!-- - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 8th 2024 11:59 PM PST**
 
 - [Homework 2](/assets/homeworks/DataC182_FA24_HW2-2.pdf), **due Sun Oct 27th 2024 11:59 PM PST**
