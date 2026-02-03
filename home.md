@@ -83,8 +83,8 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - Reading: (Bishop) Ch 1.2, Ch 1.3, Ch 4.1, Ch. 6.2, 6.3, 6.4
 - Lecture 04 [Week 2, 2026-01-29] <a href="assets/lecture_slides/04_automatic_differentiation.pdf">Automatic Differentiation</a>
   - Reading: (Bishop) Ch 8.1, 8.2
-- Lecture 05 [Week 3, 2026-02-03] Needle Tour (Automatic Differentiation Implementation)
-- Lecture 06 [Week 3, 2026-02-05] Optimization
+- Lecture 05 [Week 3, 2026-02-03] Needle Tour (Automatic Differentiation Implementation) <a href="https://colab.research.google.com/github/data-188-berkeley/lecture05_notebook/blob/main/05_automatic_differentiation_implementation.ipynb">(Jupyter notebook)</a>
+- Lecture 06 [Week 3, 2026-02-05] Optimization, Initialization
 
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
