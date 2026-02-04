@@ -212,9 +212,9 @@ For assignment due dates, see Gradescope.
 
 * (optional) [Python Colab Tutorial](https://colab.research.google.com/github/data-188-berkeley/hw0/blob/main/colab_tutorial.ipynb).
 
-* [Homework 0](https://colab.research.google.com/github/data-188-berkeley/hw0/blob/main/hw0.ipynb): ML warmup, softmax classification.
+* [Homework 0](https://colab.research.google.com/github/data-188-berkeley/hw0/blob/main/hw0.ipynb): ML warmup, softmax classification. Due **Thu 2/5 at 11:59 PM PST** (2 hour grace period until Fri 2/6 at 1:59 AM PST).
 
-* [Homework 1](https://colab.research.google.com/github/data-188-berkeley/hw1/blob/main/hw1.ipynb): Backpropagation.
+* [Homework 1](https://colab.research.google.com/github/data-188-berkeley/hw1/blob/main/hw1.ipynb): Backpropagation. Due **Thu 2/19 at 11:59 PM PST** (2 hour grace period until Fri 2/20 at 1:59 AM PST).
 
 <!-- - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 8th 2024 11:59 PM PST**
 
