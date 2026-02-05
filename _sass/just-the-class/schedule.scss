@@ -94,16 +94,17 @@
     }
 
     .name {
-      @extend .fs-3, .fw-700;
+      @extend .fs-2;
+      font-weight: bold;
     }
 
     .time,
     .location {
-      @extend .fs-2;
+      @extend .fs-1;
     }
 
     .info {
-      @extend .fs-2;
+      @extend .fs-1;
     }
 
     &.lecture {
