@@ -85,6 +85,16 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - Reading: (Bishop) Ch 8.1, 8.2
 - Lecture 05 [Week 3, 2026-02-03] <a href="assets/lecture_slides/05_automatic_differentiation_implementation.pdf">Needle Tour (Automatic Differentiation Implementation)</a> <a href="https://colab.research.google.com/github/data-188-berkeley/lecture05_notebook/blob/main/05_automatic_differentiation_implementation.ipynb">(Jupyter notebook)</a>
 - Lecture 06 [Week 3, 2026-02-05] <a href="assets/lecture_slides/06_fc_init_opt.pdf">Fully-connected Networks, Optimization, Initialization</a>
+- Lecture 07 [Week 4, 2026-02-10] <a href="assets/lecture_slides/07_nn_framework.pdf">Neural Network Library Abstractions</a>
+- Lecture 08 [Week 4, 2026-02-12] Normalization, Regularization
+- Lecture 09 [Week 5, 2026-02-17] Neural Network Library Implementation
+- Lecture 10 [Week 5, 2026-02-19] Convolutional Neural Networks
+- Lecture 11 [Week 6, 2026-02-24] Computer Vision
+- Lecture 12 [Week 6, 2026-02-26] Transformers
+- Lecture 13 [Week 7, 2026-03-03] Transformers
+- Lecture 14 [Week 7, 2026-03-05] Transformers
+- Lecture 15 [Week 8, 2026-03-10] Midterm Exam (No lecture)
+- Lecture 16 [Week 8, 2026-03-12]
 
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
