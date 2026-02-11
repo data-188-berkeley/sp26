@@ -27,12 +27,12 @@ schedule:
       - name: Office Hours
         start: 9:00 AM
         end: 10:00 AM
-        location: [Hybrid] Warren 101B, Area A
+        location: "[Hybrid] Warren 101B, Area A"
         info: "Staff: Rebecca Dang"
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: [Hybrid] Warren 101B, Area B
+        location: "[Hybrid] Warren 101B, Area B"
         info: "Staff: Terry Kim"
       - name: Office Hours
         start: 3:00 PM
@@ -44,7 +44,7 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: [Hybrid] Warren 101B, Area A
+        location: "[Hybrid] Warren 101B, Area A"
         info: "Staff: Andria Xu"
       - name: Lecture
         start: 3:30 PM
@@ -55,7 +55,7 @@ schedule:
       - name: Office Hours
         start: 9:30 AM
         end: 10:30 AM
-        location: [Hybrid] Warren 101B, Area A
+        location: "[Hybrid] Warren 101B, Area A"
         info: "Staff: Zekai Wang"
       - name: Section
         start: 11:00 AM
