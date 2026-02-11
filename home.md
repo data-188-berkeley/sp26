@@ -190,6 +190,7 @@ See this [calendar](calendar/) to view the available discussion section times an
 
 - Discussion 01 (Week 2): Matrices, vectors, and gradients. [Section Notes]({%link assets/disc/dis01_question.pdf %}), [Solutions]({%link assets/disc/dis01_solution.pdf %})
 - Discussion 02 (Week 3): Reverse-Mode Automatic Differentiation. [Section Notes]({%link assets/disc/dis02_question.pdf %}), [Solutions]({%link assets/disc/dis02_solution.pdf %})
+- Discussion 03 (Week 4): Optimization and Initialization. [Section Notes]({%link assets/disc/dis03_question.pdf %}), [Solutions]({%link assets/disc/dis03_solution.pdf %})
 
 <!-- - Discussion 01 (Week 3): [Section Notes](/assets/section_notes/week03.pdf), [Solution](/assets/section_notes/week03_solution.pdf)
 
