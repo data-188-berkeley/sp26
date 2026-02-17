@@ -192,28 +192,7 @@ See this [calendar](calendar/) to view the available discussion section times an
 - Discussion 01 (Week 2): Matrices, vectors, and gradients. [Section Notes]({%link assets/disc/dis01_question.pdf %}), [Solutions]({%link assets/disc/dis01_solution.pdf %})
 - Discussion 02 (Week 3): Reverse-Mode Automatic Differentiation. [Section Notes]({%link assets/disc/dis02_question.pdf %}), [Solutions]({%link assets/disc/dis02_solution.pdf %})
 - Discussion 03 (Week 4): Optimization and Initialization. [Section Notes]({%link assets/disc/dis03_question.pdf %}), [Solutions]({%link assets/disc/dis03_solution.pdf %})
-
-<!-- - Discussion 01 (Week 3): [Section Notes](/assets/section_notes/week03.pdf), [Solution](/assets/section_notes/week03_solution.pdf)
-
-- Discussion 02 (Week 4): [Section Notes](/assets/section_notes/week04.pdf), [Solution](/assets/section_notes/week04_solution.pdf)
-
-- Discussion 03 (Week 5): [Section Notes](/assets/section_notes/week05.pdf), [Solution](/assets/section_notes/week05_solution.pdf). [Notebook](/assets/section_notes/DataC182_DiscussionWorksheet_3.ipynb). Open notebook on [Google Colab](https://colab.research.google.com/github/datac182fa24/datac182fa24.github.io/blob/main/assets/section_notes/DataC182_DiscussionWorksheet_3.ipynb)
-
-- Discussion 04 (Week 6): [Section Notes](/assets/section_notes/week06.pdf), [Solution](/assets/section_notes/week06_solution.pdf)
-
-- Discussion 05 (Week 7): [Section Notes](/assets/section_notes/week07.pdf), [Solution](/assets/section_notes/week07_solution.pdf)
-
-- Discussion 06 (Week 8): [Section Notes](/assets/section_notes/week08.pdf), [Solution](/assets/section_notes/week08_solution.pdf)
-
-- Discussion 07 (Week 9): [Section Notes](/assets/section_notes/week09.pdf), [Solution](/assets/section_notes/week09_solution.pdf)
-
-[//]: # (- Discussion 7: [Section Notes]&#40;/assets/section_notes/week7.pdf&#41;, [Solution]&#40;/assets/section_notes/week7_solution.pdf&#41;)
-
-- Discussion 08 (Week 11): [Section Notes](/assets/section_notes/week11.pdf), [Solution](/assets/section_notes/week11_solution.pdf)
-
-- Discussion 09 (Week 12): [Section Notes](/assets/section_notes/week12.pdf), [Solution](/assets/section_notes/week12_solution.pdf)
-
-- Discussion 10 (Week 13): [Section Notes](/assets/section_notes/week13.pdf), [Solution](/assets/section_notes/week13_solution.pdf) -->
+- Discussion 04 (Week 5): Normalization and Regularization. [Section Notes]({%link assets/disc/dis04_question.pdf %}), [Solutions]({%link assets/disc/dis04_solution.pdf %})
 
 ## Homeworks
 All homeworks are graded for accuracy.
