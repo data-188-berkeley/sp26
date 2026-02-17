@@ -83,18 +83,19 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - Reading: (Bishop) Ch 1.2, Ch 1.3, Ch 4.1, Ch. 6.2, 6.3, 6.4
 - Lecture 04 [Week 2, 2026-01-29] <a href="assets/lecture_slides/04_automatic_differentiation.pdf">Automatic Differentiation</a>
   - Reading: (Bishop) Ch 8.1, 8.2
-- Lecture 05 [Week 3, 2026-02-03] <a href="assets/lecture_slides/05_automatic_differentiation_implementation.pdf">Needle Tour (Automatic Differentiation Implementation)</a> <a href="https://colab.research.google.com/github/data-188-berkeley/lecture05_notebook/blob/main/05_automatic_differentiation_implementation.ipynb">(Jupyter notebook)</a>
+- Lecture 05 [Week 3, 2026-02-03] <a href="assets/lecture_slides/05_automatic_differentiation_implementation.pdf">Needle Tour (Automatic Differentiation Implementation)</a> <a href="https://colab.research.google.com/github/data-188-berkeley/lecture05_notebook/blob/main/05_automatic_differentiation_implementation.ipynb">(Jupyter Notebook)</a>
 - Lecture 06 [Week 3, 2026-02-05] <a href="assets/lecture_slides/06_fc_init_opt.pdf">Fully-connected Networks, Optimization, Initialization</a>
-- Lecture 07 [Week 4, 2026-02-10] <a href="assets/lecture_slides/07_nn_framework.pdf">Neural Network Library Abstractions</a>
-- Lecture 08 [Week 4, 2026-02-12] Normalization, Regularization
-- Lecture 09 [Week 5, 2026-02-17] Neural Network Library Implementation
-- Lecture 10 [Week 5, 2026-02-19] Convolutional Neural Networks
-- Lecture 11 [Week 6, 2026-02-24] Computer Vision
-- Lecture 12 [Week 6, 2026-02-26] Transformers
-- Lecture 13 [Week 7, 2026-03-03] Transformers
+- Lecture 07 [Week 4, 2026-02-10] Fully-connected Networks, Optimization, Initialization (continued)
+- Lecture 08 [Week 4, 2026-02-12] <a href="assets/lecture_slides/07_nn_framework.pdf">Neural Network Library Abstractions</a>
+- Lecture 09 [Week 5, 2026-02-17] <a href="assets/lecture_slides/08_norm_reg.pdf">Normalization, Regularization</a>
+- Lecture 10 [Week 5, 2026-02-19] Neural Network Library Implementation <a href="https://colab.research.google.com/github/data-188-berkeley/lecture10_nn_lib_impl_notebook/blob/main/10_nn_library_implementation.ipynb">(Jupyter Notebook)</a>
+- Lecture 11 [Week 6, 2026-02-24] Convolutional Neural Networks
+- Lecture 12 [Week 6, 2026-02-26] Computer Vision
+- Lecture 13 [Week 7, 2026-03-03] Sequence Modeling
 - Lecture 14 [Week 7, 2026-03-05] Transformers
 - Lecture 15 [Week 8, 2026-03-10] Midterm Exam (No lecture)
 - Lecture 16 [Week 8, 2026-03-12]
+- Lecture 17 [Week 9, 2026-03-17]
 
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
