@@ -207,6 +207,9 @@ For assignment due dates, see Gradescope.
 
 * [Homework 1](https://colab.research.google.com/github/data-188-berkeley/hw1/blob/main/hw1.ipynb): Backpropagation. Due **Thu 2/19 at 11:59 PM PST** (2 hour grace period until Fri 2/20 at 1:59 AM PST).
 
+* [Homework 2](https://colab.research.google.com/github/data-188-berkeley/hw2/blob/main/hw2.ipynb): Deep learning framework abstractions. Due **Sat 3/7 at 11:59 PM PST** (2 hour grace period until Sun 3/8 at 1:59 AM PST).
+
+
 <!-- - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 8th 2024 11:59 PM PST**
 
 - [Homework 2](/assets/homeworks/DataC182_FA24_HW2-2.pdf), **due Sun Oct 27th 2024 11:59 PM PST**
