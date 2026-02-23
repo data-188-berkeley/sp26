@@ -193,7 +193,7 @@ See this [calendar](calendar/) to view the available discussion section times an
 - Discussion 02 (Week 3): Reverse-Mode Automatic Differentiation. [Section Notes]({%link assets/disc/dis02_question.pdf %}), [Solutions]({%link assets/disc/dis02_solution.pdf %})
 - Discussion 03 (Week 4): Optimization and Initialization. [Section Notes]({%link assets/disc/dis03_question.pdf %}), [Solutions]({%link assets/disc/dis03_solution.pdf %})
 - Discussion 04 (Week 5): Normalization and Regularization. [Section Notes]({%link assets/disc/dis04_question.pdf %}), [Solutions]({%link assets/disc/dis04_solution.pdf %})
-- Discussion 05 (Week 6): [Section Notes]({%link assets/disc/dis05_question.pdf %}), [Solutions]({%link assets/disc/dis05_solution.pdf %})
+- Discussion 05 (Week 6): Convolutional Neural Networks. [Section Notes]({%link assets/disc/dis05_question.pdf %}), [Solutions]({%link assets/disc/dis05_solution.pdf %})
 
 ## Homeworks
 All homeworks are graded for accuracy.
