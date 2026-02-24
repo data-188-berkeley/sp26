@@ -89,7 +89,7 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
 - Lecture 08 [Week 4, 2026-02-12] <a href="assets/lecture_slides/07_nn_framework.pdf">Neural Network Library Abstractions</a>
 - Lecture 09 [Week 5, 2026-02-17] <a href="assets/lecture_slides/08_norm_reg.pdf">Normalization, Regularization</a>
 - Lecture 10 [Week 5, 2026-02-19] Neural Network Library Implementation <a href="https://colab.research.google.com/github/data-188-berkeley/lecture10_nn_lib_impl_notebook/blob/main/10_nn_library_implementation.ipynb">(Jupyter Notebook)</a>
-- Lecture 11 [Week 6, 2026-02-24] Convolutional Neural Networks
+- Lecture 11 [Week 6, 2026-02-24] <a href="assets/lecture_slides/10_conv_nets.pdf">Convolutional Neural Networks</a>
 - Lecture 12 [Week 6, 2026-02-26] Computer Vision
 - Lecture 13 [Week 7, 2026-03-03] Sequence Modeling
 - Lecture 14 [Week 7, 2026-03-05] Transformers
