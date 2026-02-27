@@ -206,7 +206,10 @@ For assignment due dates, see Gradescope.
 
 * [Homework 0](https://colab.research.google.com/github/data-188-berkeley/hw0/blob/main/hw0.ipynb): ML warmup, softmax classification. Due **Thu 2/5 at 11:59 PM PST** (2 hour grace period until Fri 2/6 at 1:59 AM PST).
 
-* [Homework 1](https://colab.research.google.com/github/data-188-berkeley/hw1/blob/main/hw1.ipynb): Backpropagation. Extended due date **Sat 2/21 at 11:59 PM PST** (2 hour grace period until Sun 2/22 at 1:59 AM PST). ~~Due **Thu 2/19 at 11:59 PM PST** (2 hour grace period until Fri 2/20 at 1:59 AM PST).~~
+* [Homework 1](https://colab.research.google.com/github/data-188-berkeley/hw1/blob/main/hw1.ipynb): Backpropagation.
+  * Extended due date (again) **Sun 2/22 at 11:59 PM PST** (2 hour grace period until Mon 2/23 at 1:59 AM PST).
+  * ~~Extended due date **Sat 2/21 at 11:59 PM PST** (2 hour grace period until Sun 2/22 at 1:59 AM PST).~~
+  * ~~Due **Thu 2/19 at 11:59 PM PST** (2 hour grace period until Fri 2/20 at 1:59 AM PST).~~
 
 * [Homework 2](https://colab.research.google.com/github/data-188-berkeley/hw2/blob/main/hw2.ipynb): Deep learning framework abstractions. Due **Sat 3/7 at 11:59 PM PST** (2 hour grace period until Sun 3/8 at 1:59 AM PST).
 
