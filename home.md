@@ -91,7 +91,7 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
 - Lecture 10 [Week 5, 2026-02-19] Neural Network Library Implementation <a href="https://colab.research.google.com/github/data-188-berkeley/lecture10_nn_lib_impl_notebook/blob/main/10_nn_library_implementation.ipynb">(Jupyter Notebook)</a>
 - Lecture 11 [Week 6, 2026-02-24] <a href="assets/lecture_slides/10_conv_nets.pdf">Convolutional Neural Networks</a>
 - Lecture 12 [Week 6, 2026-02-26] <a href="assets/lecture_slides/11_computer_vision.pdf">Computer Vision</a>
-- Lecture 13 [Week 7, 2026-03-03] Computer Vision Part 2
+- Lecture 13 [Week 7, 2026-03-03] <a href="assets/lecture_slides/12_computer_vision_part2.pdf">Computer Vision Part 2</a>
 - Lecture 14 [Week 7, 2026-03-05] Midterm Review
 - Lecture 15 [Week 8, 2026-03-10] Midterm Exam (No lecture)
 - Lecture 16 [Week 8, 2026-03-12]
