@@ -92,7 +92,7 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
 - Lecture 11 [Week 6, 2026-02-24] <a href="assets/lecture_slides/10_conv_nets.pdf">Convolutional Neural Networks</a>
 - Lecture 12 [Week 6, 2026-02-26] <a href="assets/lecture_slides/11_computer_vision.pdf">Computer Vision</a>
 - Lecture 13 [Week 7, 2026-03-03] <a href="assets/lecture_slides/12_computer_vision_part2.pdf">Computer Vision Part 2</a>
-- Lecture 14 [Week 7, 2026-03-05] Midterm Review
+- Lecture 14 [Week 7, 2026-03-05] <a href="assets/lecture_slides/13_midterm_review.pdf">Midterm Review</a>
 - Lecture 15 [Week 8, 2026-03-10] Midterm Exam (No lecture)
 - Lecture 16 [Week 8, 2026-03-12]
 - Lecture 17 [Week 9, 2026-03-17]
