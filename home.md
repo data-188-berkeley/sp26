@@ -86,12 +86,12 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
 - Lecture 05 [Week 3, 2026-02-03] <a href="assets/lecture_slides/05_automatic_differentiation_implementation.pdf">Needle Tour (Automatic Differentiation Implementation)</a> <a href="https://colab.research.google.com/github/data-188-berkeley/lecture05_notebook/blob/main/05_automatic_differentiation_implementation.ipynb">(Jupyter Notebook)</a>
 - Lecture 06 [Week 3, 2026-02-05] <a href="assets/lecture_slides/06_fc_init_opt.pdf">Fully-connected Networks, Optimization, Initialization</a>
 - Lecture 07 [Week 4, 2026-02-10] Fully-connected Networks, Optimization, Initialization (continued)
-- Lecture 08 [Week 4, 2026-02-12] <a href="assets/lecture_slides/07_nn_framework.pdf">Neural Network Library Abstractions</a>
-- Lecture 09 [Week 5, 2026-02-17] <a href="assets/lecture_slides/08_norm_reg.pdf">Normalization, Regularization</a>
+- Lecture 08 [Week 4, 2026-02-12] <a href="assets/lecture_slides/08_nn_framework.pdf">Neural Network Library Abstractions</a>
+- Lecture 09 [Week 5, 2026-02-17] <a href="assets/lecture_slides/09_norm_reg.pdf">Normalization, Regularization</a>
 - Lecture 10 [Week 5, 2026-02-19] Neural Network Library Implementation <a href="https://colab.research.google.com/github/data-188-berkeley/lecture10_nn_lib_impl_notebook/blob/main/10_nn_library_implementation.ipynb">(Jupyter Notebook)</a>
-- Lecture 11 [Week 6, 2026-02-24] <a href="assets/lecture_slides/10_conv_nets.pdf">Convolutional Neural Networks</a>
-- Lecture 12 [Week 6, 2026-02-26] <a href="assets/lecture_slides/11_computer_vision.pdf">Computer Vision</a>
-- Lecture 13 [Week 7, 2026-03-03] <a href="assets/lecture_slides/12_computer_vision_part2.pdf">Computer Vision Part 2</a>
+- Lecture 11 [Week 6, 2026-02-24] <a href="assets/lecture_slides/11_conv_nets.pdf">Convolutional Neural Networks</a>
+- Lecture 12 [Week 6, 2026-02-26] <a href="assets/lecture_slides/12_computer_vision.pdf">Computer Vision</a>
+- Lecture 13 [Week 7, 2026-03-03] <a href="assets/lecture_slides/13_computer_vision_part2.pdf">Computer Vision Part 2</a>
 - Lecture 14 [Week 7, 2026-03-05] Midterm Review
 - Lecture 15 [Week 8, 2026-03-10] Midterm Exam (No lecture)
 - Lecture 16 [Week 8, 2026-03-12]
