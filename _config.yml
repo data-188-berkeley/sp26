@@ -76,10 +76,10 @@ berkeley_theme_options:
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
-  google_calendar_id: c_134c9c007d75a399b5e7b39377d2f4e45c9db648f2df4417f8c9a490cb0726d1@group.calendar.google.com
+  google_calendar_id: c_411891977432432e100250f2b06c0471653fc621cb2e295f21fd8ed0c11b62cb@group.calendar.google.com
   # You need to make this, once per course, ideally via a SPA
   # TODO: Recommend adding link to Google cloud project here
-  google_api_key: AIzaSyBombNhLEEZRjCfG4Fp5PpmICYBZO3PvY8
+  google_api_key: AIzaSyDMR_330Xjvan8s6V25bledgs3as9ZGyL4
   # These are processed in order, top-to-bottom, first match applies
   # The prefix/suffix matches the Google Calendar event *title*
   # You may use only prefix OR suffix, see fullcalendar.js
@@ -89,27 +89,32 @@ google_calendar:
       text_color: '000'
       class: cal-lecture
       icon: fa-school
-    - suffix: Tea Hours
-      background_color: 'FFE88D' # gold light
-      text_color: '000'
-      class: cal-tea-oh
-      icon: fa-mug-hot
-    - suffix: Faculty Office Hours
+    # - suffix: Tea Hours
+    #   background_color: 'FFE88D' # gold light
+    #   text_color: '000'
+    #   class: cal-tea-oh
+    #   icon: fa-mug-hot
+    - suffix: Instructor Online OH
       background_color: 'FFC31B' # gold medium
       text_color: '000'
       class: cal-tea-oh
       icon: fa-person-circle-question
-    - suffix: Office Hours
+    - suffix: Hybrid OH
       background_color: 'D9CEFF' # purple light
       text_color: '000000'
       class: cal-oh
       icon: fa-person-circle-question
-    - suffix: Tutoring Section
-      background_color: 'FFCFE5' # rose light
+    - suffix: In-person OH
+      background_color: 'D9CEFF' # purple light
       text_color: '000000'
-      class: cal-tutoring
-      icon: fa-people-group
-    - suffix: Section
+      class: cal-oh
+      icon: fa-person-circle-question
+    # - suffix: Tutoring Section
+    #   background_color: 'FFCFE5' # rose light
+    #   text_color: '000000'
+    #   class: cal-tutoring
+    #   icon: fa-people-group
+    - prefix: DIS
       background_color: '004AAE' # blue medium
       text_color: 'FFFFFF'
       class: cal-disc-section
