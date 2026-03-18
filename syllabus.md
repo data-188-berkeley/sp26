@@ -230,3 +230,7 @@ For instance, class participation, etc.
 
 **Incompletes**: I highly recommend students to NOT rely on Incomplete grades being granted for this course.
 As this course is not a regularly offered course (as opposed to, say, Data C88C), it's highly unlikely that we will grant any Incomplete grades for this course.
+
+## Course Logo
+
+The course logo was designed by [Elana Ho](https://ocf.io/elanaho/portfolio).
