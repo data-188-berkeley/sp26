@@ -80,13 +80,13 @@ Exams will cover all material covered in: lectures, discussion section, and assi
 
 | Name | Date | Time (PST) | Location |
 | ---- | ---- | ---- | ---- |
-| Midterm | Tuesday March 10th 2026 | 7:00 PM - ? | [Genetics and Plant Biology 0100](https://rtl.berkeley.edu/classroom-database/genetics-and-plant-biology-0100) |
-| Midterm (DSP) | Tuesday March 10th 2026 | 7:00 PM - ? | [Anthropology & Art Practice 115](https://dac.berkeley.edu/navigating-berkeley/classrooms/115-anthropology-art-practice) |
-| Alternate Midterm | Wednesday March 11th 2026 | 7:00 PM - ? | [Genetics and Plant Biology 0100](https://rtl.berkeley.edu/classroom-database/genetics-and-plant-biology-0100) |
-| Alternate Midterm (DSP) | Wednesday March 11th 2026 | 7:00 PM - ? | [Anthropology & Art Practice 115](https://dac.berkeley.edu/navigating-berkeley/classrooms/115-anthropology-art-practice) |
+| Midterm | Tuesday March 10th 2026 | 7:00 PM - 8:30 PM (80 min) | [Genetics and Plant Biology 0100](https://rtl.berkeley.edu/classroom-database/genetics-and-plant-biology-0100) |
+| Midterm (DSP) | Tuesday March 10th 2026 | 7:00 PM - 9:00 PM (120 min) | [Anthropology & Art Practice 115](https://dac.berkeley.edu/navigating-berkeley/classrooms/115-anthropology-art-practice) |
+| Alternate Midterm | Wednesday March 11th 2026 | 7:00 PM - 8:30 PM (80 min) | [Genetics and Plant Biology 0100](https://rtl.berkeley.edu/classroom-database/genetics-and-plant-biology-0100) |
+| Alternate Midterm (DSP) | Wednesday March 11th 2026 | 7:00 PM - 9:00 PM (120 min) | [Anthropology & Art Practice 115](https://dac.berkeley.edu/navigating-berkeley/classrooms/115-anthropology-art-practice) |
 | Final | Thursday May 14th 2026 | 11:30 AM - ? | ? |
 
-Note: exam durations are not yet finalized, but will not exceed 3 hours.
+Note: exam durations are not yet finalized, but will not exceed 3 hours. All exams begin at Berkeley time.
 
 **Alternate Midterm Exam Policy**: We will grant alternate midterm exam times only for extenuating circumstances, and must be approved by the instructor.
 This alternate midterm exam time is defined in the above table, as "Alternate Midterm".
