@@ -77,14 +77,16 @@ For the final exam, you are allowed two pages (double sided) of notes.
 
 Exams will cover all material covered in: lectures, discussion section, and assignments.
 
-
 | Name | Date | Time (PST) | Location |
 | ---- | ---- | ---- | ---- |
 | Midterm | Tuesday March 10th 2026 | 7:00 PM - 8:30 PM (80 min) | [Genetics and Plant Biology 0100](https://rtl.berkeley.edu/classroom-database/genetics-and-plant-biology-0100) |
-| Midterm (DSP) | Tuesday March 10th 2026 | 7:00 PM - 9:00 PM (120 min) | [Anthropology & Art Practice 115](https://dac.berkeley.edu/navigating-berkeley/classrooms/115-anthropology-art-practice) |
+| Midterm (DSP) | Tuesday March 10th 2026 | 7:00 PM - 9:00 PM (120 min*) | [Anthropology & Art Practice 115](https://dac.berkeley.edu/navigating-berkeley/classrooms/115-anthropology-art-practice) |
 | Alternate Midterm | Wednesday March 11th 2026 | 7:00 PM - 8:30 PM (80 min) | [Genetics and Plant Biology 0100](https://rtl.berkeley.edu/classroom-database/genetics-and-plant-biology-0100) |
-| Alternate Midterm (DSP) | Wednesday March 11th 2026 | 7:00 PM - 9:00 PM (120 min) | [Anthropology & Art Practice 115](https://dac.berkeley.edu/navigating-berkeley/classrooms/115-anthropology-art-practice) |
+| Alternate Midterm (DSP) | Wednesday March 11th 2026 | 7:00 PM - 9:00 PM (120 min*) | [Anthropology & Art Practice 115](https://dac.berkeley.edu/navigating-berkeley/classrooms/115-anthropology-art-practice) |
 | Final | Thursday May 14th 2026 | 11:30 AM - ? | ? |
+
+*The exact end time of a DSP student's exams is dependent on which exam accommodations they have;
+students without extended time will have the same amount of time as the non-DSP exams.
 
 Note: exam durations are not yet finalized, but will not exceed 3 hours. All exams begin at Berkeley time.
 
