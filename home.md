@@ -103,6 +103,10 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - Jupyter Notebook: <a href="https://colab.research.google.com/github/data-188-berkeley/lecture15_pytorch_intro_notebook/blob/main/lec15_intro_to_pytorch_gpu.ipynb">"lec15_intro_to_pytorch_gpu.ipynb"</a>
 - Lecture N/A [Week 10, 2026-03-24] Spring Break (No lecture)
 - Lecture N/A [Week 10, 2026-03-26] Spring Break (No lecture)
+- Lecture 16 [Week 11, 2026-03-31] <a href="assets/lecture_slides/15_transformers.pdf">Transformers (MHA, Encoder)</a>
+  - Bishop Chapter 12.1
+- Lecture 17 [Week 11, 2026-04-02] <a href="assets/lecture_slides/16_transformers_part2.pdf">Transformers Part 2 (Cross attention, Decoder)</a>
+  - Bishop Chapter 12.3
 
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
