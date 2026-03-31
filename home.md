@@ -207,6 +207,7 @@ See this [calendar](calendar/) to view the available discussion section times an
 - Discussion 05 (Week 6): Convolutional Neural Networks. [Section Notes]({%link assets/disc/dis05_question.pdf %}), [Solutions]({%link assets/disc/dis05_solution.pdf %})
 - Discussion 06 (Week 7): Computer Vision, Midterm Review. [Section Notes]({%link assets/disc/dis06_question.pdf %}), [Solutions]({%link assets/disc/dis06_solution.pdf %})
 - Discussion 07 (Week 8): Midterm Exam. [Section Notes]({%link assets/exam/midterm_blank.pdf %}), [Solutions]({%link assets/exam/midterm_solution.pdf %})
+- Discussion 08 (Week 10): Transformer 1. [Section Notes]({%link assets/disc/dis08_question.pdf %}), [Solutions]({%link assets/disc/dis08_solution.pdf %})
 
 ## Homeworks
 All homeworks are graded for accuracy.
