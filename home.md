@@ -107,7 +107,8 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - Bishop Chapter 12.1
 - Lecture 17 [Week 11, 2026-04-02] <a href="assets/lecture_slides/16_transformers_part2.pdf">Transformers Part 2 (Cross attention, Decoder)</a>
   - Bishop Chapter 12.3
-
+- Lecture 18 [Week 12, 2026-04-06] <a href="assets/lecture_slides/17_transformers_part3_vit.pdf">Transformers Part 3, Visual Transformer</a>
+  - D2L: [Chapter 11.8](https://d2l.ai/chapter_attention-mechanisms-and-transformers/vision-transformer.html)
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
  <li> Bishop Book: Chapter 1 </li>
