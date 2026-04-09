@@ -158,7 +158,8 @@ For assignment due dates, see Gradescope.
   * ~~Due **Sat 3/7 at 11:59 PM PST** (2 hour grace period until Sun 3/8 at 1:59 AM PST).~~
 
 * [Homework 3](https://colab.research.google.com/github/data-188-berkeley/hw3/blob/main/hw3.ipynb): Intro to pytorch.
-  * Due **Thu 4/9 at 11:59 PM PST** (2 hour grace period until Fri 4/10 at 1:59 AM PST).
+  * Extended due date **Sun 4/12 at 11:59 PM PST** (2 hour grace period until Mon 4/13 at 1:59 AM PST).
+  * ~~Due **Thu 4/9 at 11:59 PM PST** (2 hour grace period until Fri 4/10 at 1:59 AM PST).~~
 
 * [Homework 4]: Transformers for NLP (translation)
 * [Homework 5]: Visual Transformer, Masked Autoencoder
