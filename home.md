@@ -109,7 +109,7 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - Bishop Chapter 12.3
 - Lecture 18 [Week 12, 2026-04-07] <a href="assets/lecture_slides/17_transformers_part3_vit.pdf">Transformers Part 3, Visual Transformer</a>
   - D2L: [Chapter 11.8](https://d2l.ai/chapter_attention-mechanisms-and-transformers/vision-transformer.html)
-- Lecture 19 [Week 12, 2026-04-09] Masked auto-encoder, large-scale pretraining (computer vision)
+- Lecture 19 [Week 12, 2026-04-09] <a href="assets/lecture_slides/18_masked_autoencoder.pdf">Masked auto-encoder, large-scale pretraining</a>
 - Lecture 20 [Week 13, 2026-04-14] Scaling up training (multi-GPU, distributed training)
 - Lecture 21 [Week 13, 2026-04-16] Intro to recommendation systems
 - Lecture 22 [Week 14, 2026-04-21] Large-scale NLP pretraining
@@ -159,6 +159,9 @@ For assignment due dates, see Gradescope.
 
 * [Homework 3](https://colab.research.google.com/github/data-188-berkeley/hw3/blob/main/hw3.ipynb): Intro to pytorch.
   * Due **Thu 4/9 at 11:59 PM PST** (2 hour grace period until Fri 4/10 at 1:59 AM PST).
+
+* [Homework 4]: Transformers for NLP (translation)
+* [Homework 5]: Visual Transformer, Masked Autoencoder
 
 
 <!-- - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 8th 2024 11:59 PM PST**
