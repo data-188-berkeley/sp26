@@ -135,6 +135,7 @@ See this [calendar](calendar/) to view the available discussion section times an
 - Discussion 07 (Week 8): Midterm Exam. [Section Notes]({%link assets/exam/midterm_blank.pdf %}), [Solutions]({%link assets/exam/midterm_solution.pdf %})
 - Discussion 08 (Week 10): Transformer 1. [Section Notes]({%link assets/disc/dis08_question.pdf %}), [Solutions]({%link assets/disc/dis08_solution.pdf %})
 - Discussion 09 (Week 11): Transformer 2. [Section Notes]({%link assets/disc/dis09_question.pdf %}), [Solutions]({%link assets/disc/dis09_solution.pdf %})
+- Discussion 10 (Week 12): Transformer 3, Visual Transformers, and Large-Scale Pretraining. [Section Notes]({%link assets/disc/dis10_question.pdf %}), [Solutions]({%link assets/disc/dis10_solution.pdf %})
 
 ## Homeworks
 All homeworks are graded for accuracy.
