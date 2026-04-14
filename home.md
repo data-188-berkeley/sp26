@@ -110,7 +110,7 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
 - Lecture 18 [Week 12, 2026-04-07] <a href="assets/lecture_slides/17_transformers_part3_vit.pdf">Transformers Part 3, Visual Transformer</a>
   - D2L: [Chapter 11.8](https://d2l.ai/chapter_attention-mechanisms-and-transformers/vision-transformer.html)
 - Lecture 19 [Week 12, 2026-04-09] <a href="assets/lecture_slides/18_masked_autoencoder.pdf">Masked auto-encoder, large-scale pretraining</a>
-- Lecture 20 [Week 13, 2026-04-14] Scaling up training (multi-GPU, distributed training)
+- Lecture 20 [Week 13, 2026-04-14] <a href="assets/lecture_slides/19_scaling_up_training.pdf">Scaling up training (multi-GPU, distributed training)</a>
 - Lecture 21 [Week 13, 2026-04-16] Intro to recommendation systems
 - Lecture 22 [Week 14, 2026-04-21] Large-scale NLP pretraining
   - D2L [Chapter 11.9](https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html#encoder-only)
