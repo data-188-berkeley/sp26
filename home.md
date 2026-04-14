@@ -162,7 +162,9 @@ For assignment due dates, see Gradescope.
   * Extended due date **Sun 4/12 at 11:59 PM PST** (2 hour grace period until Mon 4/13 at 1:59 AM PST).
   * ~~Due **Thu 4/9 at 11:59 PM PST** (2 hour grace period until Fri 4/10 at 1:59 AM PST).~~
 
-* Homework 4: Transformers for NLP (translation)
+* [Homework 4](https://colab.research.google.com/github/data-188-berkeley/hw4/blob/main/hw4.ipynb): Transformers for NLP (machine translation)
+  * Due **Fri 5/1 at 11:59 PM PST** (2 hour grace period until Sat 5/2 at 1:59 AM PST).
+
 * Homework 5: Visual Transformer, Masked Autoencoder
 
 
