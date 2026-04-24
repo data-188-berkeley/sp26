@@ -167,7 +167,8 @@ For assignment due dates, see Gradescope.
 * [Homework 4](https://colab.research.google.com/github/data-188-berkeley/hw4/blob/main/hw4.ipynb): Transformers for NLP (machine translation)
   * Due **Fri 5/1 at 11:59 PM PST** (2 hour grace period until Sat 5/2 at 1:59 AM PST).
 
-* Homework 5: Visual Transformer, Masked Autoencoder
+* [Homework 5](https://colab.research.google.com/github/data-188-berkeley/hw5/blob/main/hw5.ipynb): Visual Transformer, Masked Autoencoder
+  * Due **Sun 5/10 at 11:59 PM PST** (2 hour grace period until Mon 5/11 at 1:59 AM PST)
 
 
 <!-- - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 8th 2024 11:59 PM PST**
