@@ -114,9 +114,9 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
 - Lecture 21 [Week 13, 2026-04-16] <a href="assets/lecture_slides/20_recommendation_systems.pdf">Intro to recommendation systems</a>
 - Lecture 22 [Week 14, 2026-04-21] <a href="assets/lecture_slides/21_nlp_large_scale_pretraining.pdf">Large-scale NLP pretraining</a>
   - D2L [Chapter 11.9](https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html#encoder-only)
-- Lecture 23 [Week 14, 2026-04-23]
-- Lecture 24 [Week 15, 2026-04-28]
-- Lecture 25 [Week 15, 2026-04-30] Final lecture: wrap-up,closing thoughts, advice
+- Lecture N/A [Week 14, 2026-04-23] (No lecture)
+- Lecture 23 [Week 15, 2026-04-28] <a href="assets/lecture_slides/22_multimodal_models.pdf">Multimodal models</a>
+- Lecture 24 [Week 15, 2026-04-30] Final lecture: wrap-up,closing thoughts, advice
 
 
 ## Discussion Sections
