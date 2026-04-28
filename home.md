@@ -116,6 +116,7 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - D2L [Chapter 11.9](https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html#encoder-only)
 - Lecture N/A [Week 14, 2026-04-23] (No lecture)
 - Lecture 23 [Week 15, 2026-04-28] <a href="assets/lecture_slides/22_multimodal_models.pdf">Multimodal models</a>
+  - Bishop Chapter 12.4
 - Lecture 24 [Week 15, 2026-04-30] Final lecture: wrap-up,closing thoughts, advice
 
 
