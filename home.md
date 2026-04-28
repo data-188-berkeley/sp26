@@ -137,6 +137,7 @@ See this [calendar](calendar/) to view the available discussion section times an
 - Discussion 09 (Week 11): Transformer 2. [Section Notes]({%link assets/disc/dis09_question.pdf %}), [Solutions]({%link assets/disc/dis09_solution.pdf %})
 - Discussion 10 (Week 12): Transformer 3, Visual Transformers, and Large-Scale Pretraining. [Section Notes]({%link assets/disc/dis10_question.pdf %}), [Solutions]({%link assets/disc/dis10_solution.pdf %})
 - Discussion 11 (Week 13): Masked Auto Encoders, Recommendation Systems. [Section Notes]({%link assets/disc/dis11_question.pdf %}), [Solutions]({%link assets/disc/dis11_solution.pdf %})
+- Discussion 12 (Week 14): Large-scale NLP Pretraining. [Section Notes]({%link assets/disc/dis12_question.pdf %}), [Solutions]({%link assets/disc/dis12_solution.pdf %})
 
 
 ## Homeworks
