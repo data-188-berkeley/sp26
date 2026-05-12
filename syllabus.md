@@ -214,8 +214,6 @@ Any violations of the "AI policy" will be treated as an Academic Integrity viola
 
 ## Grading
 
-(2026-01-11: grade breakdown not yet finalized)
-
 The grading breakdown is as follows:
 
 - Homework: 40%
